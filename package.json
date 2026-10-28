@@ -1,18 +1,18 @@
 {
-  "name": "js-template",
+  "name": "track-oot_Docs",
   "version": "0.0.0",
-  "description": "Template for JS projects",
-  "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com:ZidArgs/js-template.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ZidArgs/js-template/issues"
-  },
+  "description": "Documentation for Track-OOT",
   "author": "Denis Weiß (ZidArgs)",
   "license": "MIT",
-  "homepage": "https://github.com/ZidArgs/js-template",
+  "homepage": "https://github.com/GameStateTracker/Track-OOT_Docs",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:GameStateTracker/Track-OOT_Docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GameStateTracker/Track-OOTDocs/issues"
+  },
+  "type": "module",
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.28.4",
